@@ -23,7 +23,6 @@ class Solution {
                 temp = temp.next;
             }
         }
-        prev = temp;
         return head;
     }
 }
