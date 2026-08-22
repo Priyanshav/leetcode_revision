@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshav/leetcode_practice/tree/master/0002-add-two-numbers) |
+| [0367-valid-perfect-square](https://github.com/Priyanshav/leetcode_practice/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshav/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/Priyanshav/leetcode_practice/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 ## Prefix Sum
 |  |
