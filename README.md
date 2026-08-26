@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Priyanshav/leetcode_practice/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Priyanshav/leetcode_practice/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Priyanshav/leetcode_practice/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/Priyanshav/leetcode_practice/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Priyanshav/leetcode_practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1484-group-sold-products-by-the-date](https://github.com/Priyanshav/leetcode_practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1683-invalid-tweets](https://github.com/Priyanshav/leetcode_practice/tree/master/1683-invalid-tweets) |
