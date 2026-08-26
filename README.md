@@ -150,11 +150,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/Priyanshav/leetcode_practice/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
 ## Array
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 ## Tree
@@ -250,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
