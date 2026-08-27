@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyanshav/leetcode_practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshav/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Priyanshav/leetcode_practice/tree/master/0078-subsets) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0503-next-greater-element-ii) |
@@ -258,4 +259,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Priyanshav/leetcode_practice/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Priyanshav/leetcode_practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
