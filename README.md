@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Priyanshav/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshav/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Priyanshav/leetcode_practice/tree/master/0402-remove-k-digits) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshav/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Priyanshav/leetcode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Priyanshav/leetcode_practice/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Priyanshav/leetcode_practice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Priyanshav/leetcode_practice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Priyanshav/leetcode_practice/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshav/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Priyanshav/leetcode_practice/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Priyanshav/leetcode_practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshav/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Priyanshav/leetcode_practice/tree/master/0216-combination-sum-iii) |
