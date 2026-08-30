@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Priyanshav/leetcode_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Priyanshav/leetcode_practice/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Priyanshav/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Priyanshav/leetcode_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Priyanshav/leetcode_practice/tree/master/0148-sort-list) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/Priyanshav/leetcode_practice/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshav/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0402-remove-k-digits](https://github.com/Priyanshav/leetcode_practice/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
