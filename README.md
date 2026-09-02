@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Priyanshav/leetcode_practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Priyanshav/leetcode_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Priyanshav/leetcode_practice/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Priyanshav/leetcode_practice/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Priyanshav/leetcode_practice/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Priyanshav/leetcode_practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Math
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Priyanshav/leetcode_practice/tree/master/0148-sort-list) |
+| [0455-assign-cookies](https://github.com/Priyanshav/leetcode_practice/tree/master/0455-assign-cookies) |
 ## Merge Sort
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Priyanshav/leetcode_practice/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Priyanshav/leetcode_practice/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Priyanshav/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [2643-row-with-maximum-ones](https://github.com/Priyanshav/leetcode_practice/tree/master/2643-row-with-maximum-ones) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Priyanshav/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Priyanshav/leetcode_practice/tree/master/0455-assign-cookies) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -302,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Priyanshav/leetcode_practice/tree/master/0037-sudoku-solver) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Priyanshav/leetcode_practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
