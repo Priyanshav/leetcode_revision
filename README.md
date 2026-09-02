@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshav/leetcode_practice/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Priyanshav/leetcode_practice/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Priyanshav/leetcode_practice/tree/master/0860-lemonade-change) |
 | [2643-row-with-maximum-ones](https://github.com/Priyanshav/leetcode_practice/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Priyanshav/leetcode_practice/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Priyanshav/leetcode_practice/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/Priyanshav/leetcode_practice/tree/master/0860-lemonade-change) |
 ## Doubly-Linked List
 |  |
 | ------- |
