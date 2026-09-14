@@ -10,3 +10,4 @@ UNION ALL
 SELECT product_id, 'store3' AS store, store3 AS price
 FROM Products
 WHERE store3 IS NOT NULL
+ORDER BY product_id, store, price
