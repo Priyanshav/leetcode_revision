@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/Priyanshav/leetcode_practice/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Priyanshav/leetcode_practice/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Priyanshav/leetcode_practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1407-top-travellers](https://github.com/Priyanshav/leetcode_practice/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/Priyanshav/leetcode_practice/tree/master/1484-group-sold-products-by-the-date) |
 | [1667-fix-names-in-a-table](https://github.com/Priyanshav/leetcode_practice/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Priyanshav/leetcode_practice/tree/master/1683-invalid-tweets) |
