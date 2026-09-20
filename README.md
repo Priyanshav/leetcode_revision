@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshav/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Priyanshav/leetcode_practice/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Priyanshav/leetcode_practice/tree/master/0367-valid-perfect-square) |
 ## Hash Table
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Priyanshav/leetcode_practice/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshav/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
@@ -396,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Priyanshav/leetcode_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshav/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
