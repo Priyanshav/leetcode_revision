@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Priyanshav/leetcode_practice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Priyanshav/leetcode_practice/tree/master/0131-palindrome-partitioning) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
@@ -406,4 +408,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
