@@ -1,0 +1,32 @@
+class Solution {
+    public int rob(int[] nums) {
+        if(nums.length == 0) return 0;
+        if(nums.length == 1) return nums[0];
+        int n = nums.length-1;
+        int[] temp1 = new int[n];
+        int[] temp2 = new int[n];
+        int[] dp1 = new int[n+1];
+        int[] dp2 = new int[n+1];
+        Arrays.fill(dp1, -1);
+        Arrays.fill(dp2, -1);
+
+        for(int i = 0; i <=  n; i++){
+            if(i != 0) temp1[i-1] = nums[i];
+            if(i != n) temp2[i] = nums[i];
+        }
+
+        int call1 = func(temp1.length - 1, temp1, dp1);
+        int call2 = func(temp2.length - 1, temp2, dp2);
+        return Math.max(call1, call2);
+    }
+
+    private int func(int n, int[] arr, int[] dp){
+        if(n < 0) return 0;
+        if(n == 0) return arr[n];
+        if(dp[n] != -1) return dp[n];
+
+        int pick = arr[n] + func(n-2, arr, dp);
+        int notPick = 0 + func(n-1, arr, dp);
+        return dp[n] = Math.max(pick, notPick);
+    }
+}
