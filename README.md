@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshav/leetcode_practice/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Priyanshav/leetcode_practice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Priyanshav/leetcode_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0367-valid-perfect-square](https://github.com/Priyanshav/leetcode_practice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Priyanshav/leetcode_practice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Priyanshav/leetcode_practice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Priyanshav/leetcode_practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshav/leetcode_practice/tree/master/0131-palindrome-partitioning) |
@@ -413,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Priyanshav/leetcode_practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
