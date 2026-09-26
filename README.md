@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Priyanshav/leetcode_practice/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Priyanshav/leetcode_practice/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshav/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Priyanshav/leetcode_practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Priyanshav/leetcode_practice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Priyanshav/leetcode_practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Priyanshav/leetcode_practice/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Priyanshav/leetcode_practice/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Priyanshav/leetcode_practice/tree/master/0131-palindrome-partitioning) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Priyanshav/leetcode_practice/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Priyanshav/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
