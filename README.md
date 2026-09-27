@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Priyanshav/leetcode_practice/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Priyanshav/leetcode_practice/tree/master/0860-lemonade-change) |
+| [0931-minimum-falling-path-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshav/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2643-row-with-maximum-ones](https://github.com/Priyanshav/leetcode_practice/tree/master/2643-row-with-maximum-ones) |
 ## Monotonic Stack
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
+| [0931-minimum-falling-path-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Priyanshav/leetcode_practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Priyanshav/leetcode_practice/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Priyanshav/leetcode_practice/tree/master/0240-search-a-2d-matrix-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Priyanshav/leetcode_practice/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
