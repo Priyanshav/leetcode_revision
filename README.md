@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Priyanshav/leetcode_practice/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshav/leetcode_practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -431,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Priyanshav/leetcode_practice/tree/master/0062-unique-paths) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshav/leetcode_practice/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
