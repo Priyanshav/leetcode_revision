@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Priyanshav/leetcode_practice/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/Priyanshav/leetcode_practice/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Priyanshav/leetcode_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2643-row-with-maximum-ones](https://github.com/Priyanshav/leetcode_practice/tree/master/2643-row-with-maximum-ones) |
+| [3524-find-x-value-of-array-i](https://github.com/Priyanshav/leetcode_practice/tree/master/3524-find-x-value-of-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Priyanshav/leetcode_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/Priyanshav/leetcode_practice/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/Priyanshav/leetcode_practice/tree/master/3524-find-x-value-of-array-i) |
 ## Tree
 |  |
 | ------- |
